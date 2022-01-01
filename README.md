@@ -1,6 +1,6 @@
 # War Game Complexity Comparison 
 
-for COIN series
+**for COIN series**
 
 Junqian Zhang
 
