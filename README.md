@@ -1,4 +1,6 @@
-# War Game Comparison Complexity Comparison for COIN series
+# War Game Complexity Comparison 
+
+for COIN series
 
 Junqian Zhang
 
